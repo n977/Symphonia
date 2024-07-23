@@ -300,3 +300,5 @@ pub mod default {
 }
 
 pub use symphonia_core as core;
+pub use symphonia_core::*;
+pub use symphonia_core::errors::Error;
